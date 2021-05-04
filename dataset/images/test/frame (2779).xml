@@ -1,0 +1,37 @@
+<annotation>
+	<folder>images</folder>
+	<filename>frame (2779).png</filename>
+	<path>/images/frame (2779).png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>S</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>98</ymin>
+			<xmax>288</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>S</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>159</ymin>
+			<xmax>100</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>
