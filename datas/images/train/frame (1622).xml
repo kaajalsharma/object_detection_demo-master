@@ -1,0 +1,25 @@
+<annotation>
+	<folder>images</folder>
+	<filename>frame (1622).png</filename>
+	<path>/images/frame (1622).png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>368</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>H</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>199</ymin>
+			<xmax>429</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation>
+	<folder>images</folder>
+	<filename>frame (2062).png</filename>
+	<path>/images/frame (2062).png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Q</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>112</ymin>
+			<xmax>338</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Q</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>165</ymin>
+			<xmax>116</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>
